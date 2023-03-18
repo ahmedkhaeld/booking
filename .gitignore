@@ -1,0 +1,7 @@
+.coverage.out
+.idea
+/vendor/
+/.env
+/db-data/
+/logs/
+/tmp/
